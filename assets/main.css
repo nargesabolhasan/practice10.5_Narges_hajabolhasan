@@ -16,11 +16,16 @@
     width: 60px;
     height:60px ;
     position:absolute;
-    top:190px;
+    top:195px;
+    left: 2px;
+    animation:rightRed 1s 1s linear forwards,upRed 1s 2s linear forwards;
 }
 .blue{
     background-color:rgb(46, 46, 226) ;
     width: 60px;
     height:60px ;
     position:absolute;
+    top:195px;
+    left:450px;
+    animation:leftBlue 1s 1s linear forwards,downBlue 1s 2s linear forwards;
 }
