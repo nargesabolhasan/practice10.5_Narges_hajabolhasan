@@ -1,0 +1,13 @@
+.table{
+   position: relative;
+}
+.th{
+    background-color: rgb(179, 179, 179);
+    width: 60px;
+    height:60px ;
+}
+.td{
+    background-color: rgb(179, 179, 179);
+    width: 60px;
+    height:60px ;
+}
