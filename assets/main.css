@@ -37,3 +37,11 @@
     from{top:195px;}
     to{top:385px;}
 }
+@keyframes rightRed{
+    from{left: 2px;}
+    to{left:193px;}
+}
+@keyframes upRed {
+    from{top:195px;}
+    to{top:2px;}
+}
