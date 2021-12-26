@@ -29,3 +29,11 @@
     left:450px;
     animation:leftBlue 1s 1s linear forwards,downBlue 1s 2s linear forwards;
 }
+@keyframes leftBlue{
+    from{left:450px}
+    to{left:260px;}
+}
+@keyframes downBlue{
+    from{top:195px;}
+    to{top:385px;}
+}
